@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-18T20:18:04 IST" name="Default suite" finished-at="2024-07-18T20:18:51 IST" duration-ms="46857">
+    <groups>
+    </groups>
+    <test started-at="2024-07-18T20:18:04 IST" name="Default test" finished-at="2024-07-18T20:18:51 IST" duration-ms="46857">
+      <class name="com.seleniumtraining.day3.TestNgSampleCls">
+        <test-method is-config="true" signature="BeforetestMethodCls()[pri:0, instance:com.seleniumtraining.day3.TestNgSampleCls@2034b64c]" started-at="2024-07-18T20:18:04 IST" name="BeforetestMethodCls" finished-at="2024-07-18T20:18:13 IST" duration-ms="8947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforetestMethodCls -->
+        <test-method signature="LoginTest01()[pri:0, instance:com.seleniumtraining.day3.TestNgSampleCls@2034b64c]" started-at="2024-07-18T20:18:13 IST" name="LoginTest01" finished-at="2024-07-18T20:18:19 IST" duration-ms="6260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest01 -->
+        <test-method is-config="true" signature="AfterMethodCls()[pri:0, instance:com.seleniumtraining.day3.TestNgSampleCls@2034b64c]" started-at="2024-07-18T20:18:19 IST" name="AfterMethodCls" finished-at="2024-07-18T20:18:19 IST" duration-ms="235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethodCls -->
+        <test-method is-config="true" signature="BeforetestMethodCls()[pri:0, instance:com.seleniumtraining.day3.TestNgSampleCls@2034b64c]" started-at="2024-07-18T20:18:19 IST" name="BeforetestMethodCls" finished-at="2024-07-18T20:18:30 IST" duration-ms="10754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforetestMethodCls -->
+        <test-method signature="LoginTest02()[pri:0, instance:com.seleniumtraining.day3.TestNgSampleCls@2034b64c]" started-at="2024-07-18T20:18:30 IST" name="LoginTest02" finished-at="2024-07-18T20:18:35 IST" duration-ms="5241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest02 -->
+        <test-method is-config="true" signature="AfterMethodCls()[pri:0, instance:com.seleniumtraining.day3.TestNgSampleCls@2034b64c]" started-at="2024-07-18T20:18:35 IST" name="AfterMethodCls" finished-at="2024-07-18T20:18:36 IST" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethodCls -->
+        <test-method is-config="true" signature="BeforetestMethodCls()[pri:0, instance:com.seleniumtraining.day3.TestNgSampleCls@2034b64c]" started-at="2024-07-18T20:18:36 IST" name="BeforetestMethodCls" finished-at="2024-07-18T20:18:45 IST" duration-ms="9687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforetestMethodCls -->
+        <test-method signature="LoginTest03()[pri:0, instance:com.seleniumtraining.day3.TestNgSampleCls@2034b64c]" started-at="2024-07-18T20:18:45 IST" name="LoginTest03" finished-at="2024-07-18T20:18:51 IST" duration-ms="5253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest03 -->
+        <test-method is-config="true" signature="AfterMethodCls()[pri:0, instance:com.seleniumtraining.day3.TestNgSampleCls@2034b64c]" started-at="2024-07-18T20:18:51 IST" name="AfterMethodCls" finished-at="2024-07-18T20:18:51 IST" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethodCls -->
+      </class> <!-- com.seleniumtraining.day3.TestNgSampleCls -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
